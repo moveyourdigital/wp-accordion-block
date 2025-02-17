@@ -2,7 +2,7 @@
     "$schema": "https://schemas.wp.org/trunk/block.json",
 	"apiVersion": 3,
     "name": "myd/accordion-group",
-	"version": "0.1.3",
+	"version": "0.1.4",
     "title": "Accordion",
 	"category": "text",
 	"icon": "list-view",
