@@ -1,0 +1,86 @@
+# Copyright (C) 2025 Move Your Digital, Inc.
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Accordion Block 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/accordion-block\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-02-17T11:25:04+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: accordion-block\n"
+
+#. Plugin Name of the plugin
+msgid "Accordion Block"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/moveyourdigital/wp-accordion-block"
+msgstr ""
+
+#. Description of the plugin
+msgid "A simple and customizable accordion block for the WordPress block editor (Gutenberg)."
+msgstr ""
+
+#. Author of the plugin
+msgid "Move Your Digital, Inc."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://moveyourdigital.com"
+msgstr ""
+
+#: build/accordion-block/index.js:1
+#: src/accordion-block/edit.js:33
+msgid "Icon Type"
+msgstr ""
+
+#: build/accordion-block/index.js:1
+#: src/accordion-block/edit.js:36
+msgid "Chevron"
+msgstr ""
+
+#: build/accordion-block/index.js:1
+#: src/accordion-block/edit.js:37
+msgid "Custom Icon"
+msgstr ""
+
+#: build/accordion-block/index.js:1
+#: src/accordion-block/edit.js:47
+msgid "Replace Icon"
+msgstr ""
+
+#: build/accordion-block/index.js:1
+#: src/accordion-block/edit.js:47
+msgid "Upload Custom Icon"
+msgstr ""
+
+#: build/accordion-block/index.js:1
+#: src/accordion-block/edit.js:60
+#: src/accordion-block/save.js:26
+msgid "Accordion Title"
+msgstr ""
+
+#: build/accordion-block/block.json
+#: src/accordion-block/block.json
+msgctxt "block title"
+msgid "Accordion Item"
+msgstr ""
+
+#: build/accordion-block/block.json
+#: build/accordion-group/block.json
+#: src/accordion-block/block.json
+#: src/accordion-group/block.json
+msgctxt "block description"
+msgid "A simple and customizable accordion block."
+msgstr ""
+
+#: build/accordion-group/block.json
+#: src/accordion-group/block.json
+msgctxt "block title"
+msgid "Accordion"
+msgstr ""

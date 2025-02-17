@@ -1,0 +1,22 @@
+{
+    "name": "Accordion Block",
+    "version": "0.1.0",
+    "author": "<a href='https://github.com/moveyourdigital'>Move Your Digital</a>",
+    "author_profile": "https://github.com/moveyourdigital",
+    "homepage": "https://github.com/moveyourdigital/wp-accordion-block",
+    "download_link": "https://github.com/moveyourdigital/wp-accordion-block/archive/refs/heads/main.zip",
+    "support_url": "https://github.com/moveyourdigital/wp-accordion-block/issues",
+    "requires": "5.8",
+    "tested": "6.5.3",
+    "requires_php": "7.4",
+    "last_updated": "2025-02-16 16:45:00",
+    "sections": {
+        "description": "A simple and customizable accordion block for the WordPress block editor (Gutenberg).",
+        "installation": "Click the <i>activate</i> button.",
+        "changelog": "<h4>0.1.0</h4><ol><li>Initial release.</li></ol>"
+    },
+    "banners": {
+        "low": "https://github.com/moveyourdigital/wp-accordion-block/raw/main/.wordpress-org/banner-772x250.jpg",
+        "high": "https://github.com/moveyourdigital/wp-accordion-block/raw/main/.wordpress-org/banner-1544x500.jpg"
+    }
+}

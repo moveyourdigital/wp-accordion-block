@@ -1,0 +1,45 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+    "name": "myd/accordion-group",
+	"version": "0.1.2",
+    "title": "Accordion",
+	"category": "text",
+	"icon": "list-view",
+	"textdomain": "accordion-block",
+	"description": "A simple and customizable accordion block.",
+	"example": {},
+    "supports": {
+        "html": false,
+		"typography": {
+			"fontSize": true,
+			"lineHeight": true,
+			"fontWeight": true
+		},
+		"color": {
+			"background": true,
+			"gradient": true,
+			"text": true
+		},
+		"spacing": {
+			"margin": true,
+			"padding": true
+		},
+		"shadow": true,
+		"__experimentalBorder": {
+			"color": true,
+			"width": true,
+			"radius": true,
+			"style": true,
+			"__experimentalDefaultControls": {
+				"radius": true,
+				"color": true,
+				"width": true,
+				"style": true
+			}
+		}
+    },
+    "attributes": {},
+    "editorScript": "file:./index.js",
+    "style": "file:./style-index.css"
+}

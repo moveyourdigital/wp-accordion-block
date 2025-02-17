@@ -1,0 +1,82 @@
+# Copyright (C) 2025 Move Your Digital, Inc.
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Accordion Block 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/accordion-"
+"block\n"
+"POT-Creation-Date: 2025-02-17T11:25:04+00:00\n"
+"PO-Revision-Date: 2025-02-17 11:29+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Domain: accordion-block\n"
+
+#. Plugin Name of the plugin
+msgid "Accordion Block"
+msgstr "Bloco de Acordeão"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/moveyourdigital/wp-accordion-block"
+msgstr "https://github.com/moveyourdigital/wp-accordion-block"
+
+#. Description of the plugin
+msgid ""
+"A simple and customizable accordion block for the WordPress block editor "
+"(Gutenberg)."
+msgstr ""
+"Um bloco de acordeão simples e personalizável para o editor do WordPress "
+"(Gutenberg)."
+
+#. Author of the plugin
+msgid "Move Your Digital, Inc."
+msgstr "Move Your Digital, Inc."
+
+#. Author URI of the plugin
+msgid "https://moveyourdigital.com"
+msgstr "https://moveyourdigital.com"
+
+#: build/accordion-block/index.js:1 src/accordion-block/edit.js:33
+msgid "Icon Type"
+msgstr "Tipo de ícone"
+
+#: build/accordion-block/index.js:1 src/accordion-block/edit.js:36
+msgid "Chevron"
+msgstr "Seta preenchida"
+
+#: build/accordion-block/index.js:1 src/accordion-block/edit.js:37
+msgid "Custom Icon"
+msgstr "Ícone personalizado"
+
+#: build/accordion-block/index.js:1 src/accordion-block/edit.js:47
+msgid "Replace Icon"
+msgstr "Trocar o ícone"
+
+#: build/accordion-block/index.js:1 src/accordion-block/edit.js:47
+msgid "Upload Custom Icon"
+msgstr "Upload do ícone personalizado"
+
+#: build/accordion-block/index.js:1 src/accordion-block/edit.js:60
+#: src/accordion-block/save.js:26
+msgid "Accordion Title"
+msgstr "Título do acordeão"
+
+#: build/accordion-block/block.json src/accordion-block/block.json
+msgctxt "block title"
+msgid "Accordion Item"
+msgstr "Item de acordeão"
+
+#: build/accordion-block/block.json build/accordion-group/block.json
+#: src/accordion-block/block.json src/accordion-group/block.json
+msgctxt "block description"
+msgid "A simple and customizable accordion block."
+msgstr "Um bloco de acordeão simples e personalizável."
+
+#: build/accordion-group/block.json src/accordion-group/block.json
+msgctxt "block title"
+msgid "Accordion"
+msgstr "Acordeão"

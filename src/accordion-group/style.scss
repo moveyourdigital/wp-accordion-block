@@ -1,0 +1,23 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-accordion-group {
+    display: flex;
+    flex-direction: column;
+    gap: var(--wp--preset--spacing--small, 10px);
+    padding: var(--wp--preset--spacing--medium, 0px);
+    background: var(--wp--preset--color--background, transparent);
+    color: var(--wp--preset--color--text, #333);
+}
+
+.wp-block-accordion-group > .wp-block-myd-accordion-block {
+    border-bottom: 1px solid var(--wp--preset--border-color);
+}
+
+.wp-block-accordion-group > .wp-block-myd-accordion-block:last-child {
+    border-bottom: none;
+}
