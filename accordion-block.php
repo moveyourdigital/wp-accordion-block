@@ -3,7 +3,7 @@
  * Plugin Name:       Accordion Block
  * Plugin URI:        https://github.com/moveyourdigital/wp-accordion-block
  * Description:       A simple and customizable accordion block for the WordPress block editor (Gutenberg).
- * Version:           0.1.2
+ * Version:           0.1.3
  * Requires at least: 6.7
  * Requires PHP:      7.4
  * Author:            Move Your Digital, Inc.
